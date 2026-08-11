@@ -1,0 +1,384 @@
+/* =============================================
+   RESPONSIVE STYLES - Mobile First (Light Theme)
+   ============================================= */
+
+/* Small Phones (< 375px) */
+@media (max-width: 374px) {
+    .intro-j,
+    .intro-k {
+        font-size: 3.5rem;
+    }
+
+    .couple-name {
+        font-size: 2.5rem;
+    }
+
+    .section-title {
+        font-size: 2.2rem;
+    }
+
+    .countdown-value {
+        font-size: 2.5rem;
+        padding: 15px 8px;
+        min-width: 60px;
+    }
+
+    .countdown-container {
+        gap: 8px;
+    }
+
+    .countdown-separator {
+        font-size: 2rem;
+    }
+
+    .final-title {
+        font-size: 2.8rem;
+    }
+
+    .final-couple {
+        font-size: 1.8rem;
+    }
+
+    .bless-final-line {
+        font-size: 1.5rem;
+    }
+
+    .invite-card {
+        width: 260px;
+        padding: 36px 22px 32px;
+    }
+
+    .details-title {
+        font-size: 1.8rem;
+    }
+
+    .btn-gold {
+        padding: 12px 28px;
+        font-size: 0.95rem;
+    }
+
+    .timeline-card {
+        padding: 18px;
+    }
+
+    .timeline-card h3 {
+        font-size: 1.2rem;
+    }
+
+    .timeline-card p {
+        font-size: 0.8rem;
+    }
+
+    .music-controls {
+        bottom: 15px;
+        right: 15px;
+    }
+}
+
+/* Regular Phones (375px - 480px) */
+@media (min-width: 375px) and (max-width: 480px) {
+    .intro-j,
+    .intro-k {
+        font-size: 4rem;
+    }
+
+    .couple-name {
+        font-size: 2.8rem;
+    }
+
+    .section-title {
+        font-size: 2.5rem;
+    }
+
+    .countdown-value {
+        font-size: 3rem;
+        padding: 18px 8px;
+        min-width: 65px;
+    }
+
+    .bless-final-line {
+        font-size: 1.7rem;
+    }
+
+    .invite-card {
+        width: 280px;
+    }
+
+    .music-controls {
+        bottom: 20px;
+        right: 20px;
+    }
+}
+
+/* Large Phones / Small Tablets (481px - 768px) */
+@media (min-width: 481px) and (max-width: 768px) {
+    .intro-j,
+    .intro-k {
+        font-size: 5rem;
+    }
+
+    .couple-name {
+        font-size: 3.5rem;
+    }
+
+    .section-title {
+        font-size: 3rem;
+    }
+
+    .countdown-value {
+        font-size: 3.5rem;
+        min-width: 75px;
+    }
+
+    .invite-card {
+        width: 340px;
+        padding: 48px 36px 42px;
+    }
+
+    .timeline-item:nth-child(odd) {
+        padding-right: calc(50% + 35px);
+    }
+
+    .timeline-item:nth-child(even) {
+        padding-left: calc(50% + 35px);
+    }
+}
+
+/* Tablets (769px - 1024px) */
+@media (min-width: 769px) and (max-width: 1024px) {
+    .section-inner {
+        max-width: 900px;
+        padding: 60px 40px;
+    }
+
+    .intro-j,
+    .intro-k {
+        font-size: 6rem;
+    }
+
+    .couple-name {
+        font-size: 4rem;
+    }
+
+    .section-title {
+        font-size: 3.5rem;
+    }
+
+    .countdown-value {
+        font-size: 4.5rem;
+        min-width: 100px;
+        padding: 25px 15px;
+    }
+
+    .invite-card {
+        width: 400px;
+        padding: 52px 42px 46px;
+    }
+
+    .details-card {
+        padding: 50px 40px;
+    }
+
+    .details-title {
+        font-size: 2.5rem;
+    }
+
+    .final-title {
+        font-size: 5rem;
+    }
+
+    .final-couple {
+        font-size: 3rem;
+    }
+}
+
+/* Desktops (1025px+) */
+@media (min-width: 1025px) {
+    .section-inner {
+        max-width: 1000px;
+        padding: 60px 60px;
+    }
+
+    /* Luxury gold frame around the invitation on desktop */
+    #desktop-frame {
+        display: block;
+        position: fixed;
+        top: 18px;
+        left: 18px;
+        right: 18px;
+        bottom: 18px;
+        border: 1px solid rgba(212, 175, 55, 0.35);
+        border-radius: 8px;
+        pointer-events: none;
+        z-index: 2000;
+    }
+
+    #desktop-frame::before {
+        content: '';
+        position: absolute;
+        inset: 6px;
+        border: 1px solid rgba(212, 175, 55, 0.14);
+        border-radius: 6px;
+    }
+
+    #desktop-frame::after {
+        content: '';
+        position: absolute;
+        width: 34px;
+        height: 34px;
+        top: -2px;
+        left: -2px;
+        border-top: 2px solid var(--gold);
+        border-left: 2px solid var(--gold);
+    }
+
+    .intro-j,
+    .intro-k {
+        font-size: 7rem;
+    }
+
+    .couple-name {
+        font-size: 4.5rem;
+    }
+
+    .section-title {
+        font-size: 4rem;
+    }
+
+    .countdown-value {
+        font-size: 5rem;
+        min-width: 120px;
+        padding: 30px 20px;
+    }
+
+    .countdown-separator {
+        font-size: 4rem;
+    }
+
+    .invite-card {
+        width: 430px;
+        padding: 56px 48px 48px;
+    }
+
+    .invite-names {
+        font-size: 2.8rem;
+    }
+
+    .details-card {
+        padding: 60px 50px;
+        max-width: 550px;
+    }
+
+    .details-title {
+        font-size: 2.8rem;
+    }
+
+    .final-title {
+        font-size: 6rem;
+    }
+
+    .final-couple {
+        font-size: 3.5rem;
+    }
+
+    .timeline {
+        max-width: 700px;
+    }
+
+    .btn-gold {
+        padding: 16px 44px;
+        font-size: 1.2rem;
+    }
+}
+
+/* Large Desktops (1440px+) */
+@media (min-width: 1440px) {
+    .intro-j,
+    .intro-k {
+        font-size: 8rem;
+    }
+
+    .couple-name {
+        font-size: 5rem;
+    }
+
+    .section-title {
+        font-size: 4.5rem;
+    }
+
+    .countdown-value {
+        font-size: 6rem;
+        min-width: 140px;
+    }
+
+    .final-title {
+        font-size: 7rem;
+    }
+}
+
+/* Landscape Phones */
+@media (max-height: 500px) and (orientation: landscape) {
+    .section-inner {
+        padding: 20px 30px;
+        min-height: auto;
+    }
+
+    .section-title {
+        font-size: 2rem;
+        margin-bottom: 10px;
+    }
+
+    .couple-name {
+        font-size: 2.2rem;
+    }
+
+    .countdown-value {
+        font-size: 2rem;
+        padding: 10px 8px;
+        min-width: 50px;
+    }
+
+    .countdown-separator {
+        font-size: 1.5rem;
+    }
+
+    .timeline-card {
+        padding: 12px;
+    }
+
+    .glass-card {
+        padding: 15px;
+    }
+}
+
+/* Touch Device Hover Adjustments */
+@media (hover: none) {
+    .btn-gold:hover {
+        transform: none;
+        box-shadow: 0 6px 25px rgba(212, 175, 55, 0.3);
+    }
+
+    .gallery-item:hover {
+        transform: none;
+    }
+
+    .gallery-nav:hover {
+        background: rgba(255, 255, 255, 0.7);
+        color: var(--gold);
+    }
+}
+
+/* Reduced Motion */
+@media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+    }
+
+    .petal {
+        animation: none !important;
+    }
+}
