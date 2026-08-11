@@ -1,0 +1,551 @@
+# FINAL PAGE STRUCTURE — CONTINUOUS SCROLLING INVITATION
+
+## IMPORTANT STRUCTURAL CHANGE
+
+Remove the **second page/second screen completely**.
+
+There should be **NO envelope, NO mail, NO couple-reveal page, and NO separate second screen**.
+
+The invitation should begin with the opening scene and then immediately continue into the first content section as the user scrolls.
+
+The entire invitation must be **ONE continuous scrolling page**.
+
+---
+
+# FINAL INVITATION FLOW
+
+The invitation should contain ONLY these sections:
+
+### 1. Opening
+
+### 2. Welcome
+
+### 3. Our Story
+
+### 4. Engagement Details
+
+### 5. Countdown
+
+### 6. We Await Your Presence
+
+### 7. Final Thank You
+
+There must NOT be an additional section between Opening and Welcome.
+
+---
+
+# 1. OPENING
+
+Start with the luxurious **teal + gold cinematic opening**.
+
+Use:
+
+* Rich teal background
+* Antique gold particles
+* Golden sparkles
+* Floating flower petals
+* Soft golden light
+* Subtle floral ornaments
+
+Display:
+
+# J ❤️ K
+
+Then:
+
+### A Beautiful Beginning...
+
+Use:
+
+* Great Vibes for `J` and `K`
+* Antique Gold for the initials
+* Rose Gold for the heart
+* Cormorant Garamond for the tagline
+
+Allow the opening animation to play naturally.
+
+At the bottom of this section, display:
+
+### ↓
+
+### Scroll down to see more
+
+This must be a **small animated scroll instruction**, NOT a button.
+
+Animate the arrow with a very gentle up/down movement.
+
+When the user starts scrolling, fade this instruction away.
+
+---
+
+# 2. WELCOME
+
+There is NO envelope or mail design here.
+
+The Welcome section should immediately follow the Opening section.
+
+Use the teal + gold luxury theme.
+
+Display:
+
+### Together with our families
+
+Then:
+
+### We joyfully invite you to celebrate the beginning of our forever.
+
+Then reveal:
+
+# Jayasuriya
+
+❤️
+
+# Kayathri
+
+Then:
+
+### Request the honour of your gracious presence at our Engagement Ceremony.
+
+Use elegant scroll-triggered animations:
+
+* Fade in
+* Gentle upward movement
+* Gold shimmer
+* Soft floral movement
+* Floating particles
+
+The couple names should be the visual focus.
+
+At the bottom of the section:
+
+### ↓
+
+### Scroll down to see more
+
+Again, this is NOT a button.
+
+It should gently pulse/move and disappear once the user starts scrolling.
+
+---
+
+# 3. OUR STORY
+
+Create a beautiful cinematic timeline.
+
+Display:
+
+### We Met
+
+↓
+
+### Friendship Blossomed
+
+↓
+
+### Love Grew
+
+↓
+
+### A Promise Forever
+
+↓
+
+### Engagement
+
+Reveal each milestone progressively as the user scrolls.
+
+Use:
+
+* Antique gold timeline
+* Gold glowing dots
+* Rose-gold hearts
+* Teal background
+* Floating petals
+* Soft parallax
+
+Do not use any navigation buttons.
+
+At the bottom:
+
+### ↓
+
+### Scroll down to see more
+
+The instruction should fade out when scrolling begins.
+
+---
+
+# 4. ENGAGEMENT DETAILS
+
+Create a premium luxury invitation-details section.
+
+Display:
+
+# Engagement Ceremony
+
+### Jayasuriya ❤️ Kayathri
+
+**Sunday, August 30, 2026**
+
+**10:00 AM – 11:30 AM**
+
+### GANGA JAYARAJAN MARRIAGE HALL
+
+Sannathi Street
+Theradi
+Thiruvottiyur
+Chennai – 600019
+
+Use a beautiful elegant card with:
+
+* Teal/pearl surface
+* Gold border
+* Gold ornamental corners
+* Soft shadow
+* Subtle glass effect
+
+For the venue, make the venue card itself interactive.
+
+Display a small instruction:
+
+### 📍 Tap venue to view location
+
+When tapped, open:
+
+https://maps.app.goo.gl/gsih53qh1w6ccy4X9?g_st=aw
+
+Do NOT create a large button.
+
+At the bottom:
+
+### ↓
+
+### Scroll down to see more
+
+---
+
+# 5. COUNTDOWN
+
+Create a live countdown for:
+
+**August 30, 2026
+10:00 AM**
+
+Display:
+
+### Days
+
+### Hours
+
+### Minutes
+
+### Seconds
+
+Use:
+
+* Elegant gold numbers
+* Teal background
+* Gold borders
+* Soft glass effect
+* Subtle glow
+
+Use smooth number transitions.
+
+Do not make it look like a normal website countdown widget.
+
+At the bottom:
+
+### ↓
+
+### Scroll down to see more
+
+---
+
+# 6. WE AWAIT YOUR PRESENCE
+
+Create a warm, emotional section using the teal + gold theme.
+
+Use:
+
+* Floating petals
+* Gold particles
+* Floral ornaments
+* Soft golden light rays
+* Rose-gold hearts
+
+Reveal:
+
+### Your presence, love, and blessings will make our special day truly unforgettable.
+
+Then:
+
+### We would be delighted to celebrate this joyful beginning with you and your family.
+
+Then:
+
+### Your gracious presence is the greatest gift we could receive.
+
+Finally:
+
+# We Look Forward to Welcoming You ❤️
+
+Do NOT use a button.
+
+At the bottom:
+
+### ↓
+
+### Scroll down to see more
+
+---
+
+# 7. FINAL THANK YOU
+
+Create the final magical section.
+
+Use:
+
+* Rich teal gradient
+* Antique gold
+* Golden sparkles
+* Floating flower petals
+* Soft confetti
+* Glowing golden heart
+* Gentle cinematic light
+
+Reveal:
+
+# Thank You
+
+Then:
+
+### We eagerly await celebrating this beautiful occasion with you.
+
+Then:
+
+### With Love
+
+# Jayasuriya ❤️ Kayathri
+
+Finish with a slowly pulsing golden heart.
+
+Do NOT show a scroll instruction on the final section.
+
+Instead, end with:
+
+### With Love, Jayasuriya & Kayathri ❤️
+
+and allow the animation to gently settle.
+
+---
+
+# SCROLL INSTRUCTION — ALL SECTIONS
+
+Every section **except the final section** must contain a subtle scroll instruction at the bottom.
+
+Use exactly:
+
+### ↓
+
+### Scroll down to see more
+
+The instruction should:
+
+* Be centered
+* Use elegant typography
+* Use gold
+* Have a subtle glow
+* Gently move up and down
+* Fade in when the section becomes visible
+* Fade out when the user starts scrolling
+* Never behave like a button
+* Never block content
+* Never remain permanently distracting
+
+The arrow can use a thin animated gold chevron.
+
+---
+
+# IMPORTANT — DO NOT CREATE SEPARATE PAGES
+
+The entire invitation must be a single HTML document:
+
+```html
+<main id="invitation">
+
+    <section id="opening"></section>
+
+    <section id="welcome"></section>
+
+    <section id="story"></section>
+
+    <section id="details"></section>
+
+    <section id="countdown"></section>
+
+    <section id="bless"></section>
+
+    <section id="final"></section>
+
+</main>
+```
+
+Do NOT create:
+
+```text
+Page 1
+Page 2
+Page 3
+Page 4
+```
+
+Instead, create one continuous page containing seven full-screen sections.
+
+---
+
+# IMPORTANT — REMOVE THE OLD SCREEN SYSTEM
+
+Do not use the existing fixed-screen architecture.
+
+Remove the concept of:
+
+```css
+.screen {
+    position: fixed;
+    opacity: 0;
+    visibility: hidden;
+}
+```
+
+Do not use `.screen.active` to switch between sections.
+
+Each section must remain in the document.
+
+Use:
+
+```css
+.invitation-section {
+    position: relative;
+    width: 100%;
+    min-height: 100svh;
+}
+```
+
+Allow the browser to naturally scroll through the entire invitation.
+
+---
+
+# SCROLLING
+
+Use:
+
+```css
+html {
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+
+body {
+    overflow-x: hidden;
+    overflow-y: auto;
+    min-height: 100%;
+}
+```
+
+Do not use:
+
+```css
+html {
+    overflow: hidden;
+}
+
+body {
+    overflow: hidden;
+}
+```
+
+The user must be able to continuously scroll from Opening all the way to Thank You.
+
+---
+
+# SECTION TRANSITIONS
+
+Do not make one section disappear and replace it with another.
+
+The sections should physically exist one after another.
+
+As the user scrolls:
+
+**Opening**
+
+↓
+
+**Welcome**
+
+↓
+
+**Our Story**
+
+↓
+
+**Engagement Details**
+
+↓
+
+**Countdown**
+
+↓
+
+**We Await Your Presence**
+
+↓
+
+**Thank You**
+
+Use GSAP ScrollTrigger/AOS to animate content as it enters the viewport.
+
+---
+
+# FINAL EXPERIENCE
+
+The invitation should feel like:
+
+> **One long, luxurious digital engagement invitation that unfolds naturally as the guest scrolls downward.**
+
+The guest should never feel that they are navigating a website.
+
+They should simply:
+
+### Scroll down ↓
+
+### Discover the next part ↓
+
+### Scroll down ↓
+
+### Discover the next part ↓
+
+until they reach the final:
+
+# Jayasuriya ❤️ Kayathri
+
+### With Love ❤️
+
+There should be:
+
+**NO ENVELOPE**
+
+**NO MAIL**
+
+**NO SECOND PAGE**
+
+**NO NEXT BUTTON**
+
+**NO CONTINUE BUTTON**
+
+**NO NAVIGATION MENU**
+
+**NO PAGE SWITCHING**
+
+Only:
+
+## ONE PAGE → CONTINUOUS SCROLL → CINEMATIC STORY
