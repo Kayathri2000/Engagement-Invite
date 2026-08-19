@@ -77,7 +77,7 @@ const Navigation = {
         }
 
         setTimeout(() => {
-            window.open('https://maps.app.goo.gl/gsih53qh1w6ccy4X9?g_st=aw', '_blank', 'noopener');
+            window.open('https://maps.app.goo.gl/9BGKTQdvtv2hCTvy5?g_st=aw', '_blank', 'noopener');
         }, 300);
     },
 
